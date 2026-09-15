@@ -1,1 +1,2 @@
 ﻿Login feature implemented from develop branch.
+Conflict resolved by choosing the develop version.
